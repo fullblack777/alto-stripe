@@ -1,4 +1,4 @@
-# ⚡ Cyber Stripe - Alto Coder Professional v5.0
+# ⚡ Cyber Stripe - Alto Coder api stripe
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
